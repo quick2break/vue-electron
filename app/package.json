@@ -8,6 +8,14 @@
   "config": {
     "target": "development"
   },
+  "keywords": [
+    "vuejs",
+    "starter",
+    "skeleton",
+    "atom",
+    "electron",
+    "boilerplate"
+  ],
   "dependencies": {
     "foundation-sites": "^6.0.6",
     "vue": "^1.0.11",
