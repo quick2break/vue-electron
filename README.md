@@ -1,4 +1,4 @@
-electron-boilerplate-vue
+Vue Electron
 ==============
 Comprehensive boilerplate application for [Electron runtime](http://electron.atom.io) and [Vue.js](http://vuejs.org). This project builds on top of the electron boilerplate by @szwacz. I've modified it to work with vuejs, vue-router, and vue-resource.
 
