@@ -1,3 +1,7 @@
+#Note
+
+If you have `go` installed on your machine I've created a CLI tool for scaffolding new projects generating components, services, and mixins. [VueCli](https://github.com/rodzzlessa24/vue-cli)
+
 Vue Electron
 ==============
 Comprehensive boilerplate application for [Electron runtime](http://electron.atom.io) and [Vue.js](http://vuejs.org). This project builds on top of the electron boilerplate by @szwacz. I've modified it to work with vuejs, vue-router, and vue-resource.
