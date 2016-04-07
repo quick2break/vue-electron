@@ -1,6 +1,8 @@
-#Note
+#Notes
 
-I've created a CLI tool for scaffolding new projects generating components, services, and mixins. [VueGoCli](https://github.com/rodzzlessa24/vue-go-cli)
+ - I've created a CLI tool for scaffolding new projects generating components, services, and mixins. [VueGoCli](https://github.com/rodzzlessa24/vue-go-cli)
+ - I'm doing a complete overhall of this project removing webpack usage and sticking just to rollup. Also adding testing and updating the boilerplate 
+ 
 
 Vue Electron
 ==============
